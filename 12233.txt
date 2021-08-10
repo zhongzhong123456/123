@@ -1,4 +1,4 @@
-音乐欣赏,#genre#
+﻿音乐欣赏,#genre#
 冷漠-古咖啡,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_3142984&response=res&format=mp4&type=convert_url
 冷漠-时光海湾,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_9867444&response=res&format=mp4&type=convert_url
 冷漠-真不是闹着玩,http://antiserver.kuwo.cn/anti.s?rid=MUSIC_22836669&response=res&format=mp4&type=convert_url
